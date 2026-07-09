@@ -13,6 +13,11 @@ Skin cancer, particularly melanoma, demands early and accurate diagnosis. Manual
 **Key contribution:** A morphology-based Blackhat hair removal pipeline is applied before segmentation, significantly improving lesion boundary clarity across all models.
 
 ---
+## Pipeline
+
+![Workflow](skin_lesion_pipeline.svg)
+
+---
 
 ## Repository Structure
 
