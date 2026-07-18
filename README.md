@@ -99,8 +99,8 @@ U-Net variant with a Mix Transformer (MiT-B0) encoder from SegFormer. Highest Di
 |-------|----------|------------|-----|
 | ResUNet++ | 0.9586 | 0.9236 | 0.8581 |
 | TransUNet | 0.9358 | 0.8640 | 0.7605 |
-| UNet mit_b0 | 0.9690 | **0.9429** | 0.8921 |
-| **DeepLabV3** | **0.9714** | 0.9375 | **0.8896** |
+| UNet mit_b0 | 0.9690 | 0.9329 | 0.8821 |
+| **DeepLabV3** | **0.9714** | **0.9475** | **0.8996** |
 
 DeepLabV3 achieved the best overall balance of accuracy, recall, and boundary precision, making it the recommended model for clinical deployment.
 
